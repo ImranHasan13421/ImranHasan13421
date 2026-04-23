@@ -19,7 +19,7 @@
 
 <div align="center">
 
-<a href="https://drive.google.com/your-link-1](https://drive.google.com/file/d/1NyCaQkedtT0K8KiEoQ11Fx4vqBwW4VWZ/view?usp=drive_link" target="_blank">
+<a href="https://drive.google.com/file/d/1NyCaQkedtT0K8KiEoQ11Fx4vqBwW4VWZ/view?usp=drive_link" target="_blank">
   <img src="EzzeWash_Logo.png" width="80" style="margin: 10px;" />
 </a>
 
