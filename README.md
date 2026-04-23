@@ -90,7 +90,7 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="45"/>
 </a>
 
-<a href="imranhasan13421@gmail.com">
+<a href="mailto:imranhasan13421@gmail.com?subject=Hello&body=I%20want%20to%20contact%20you">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="45"/>
 </a>
 
