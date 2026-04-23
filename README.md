@@ -73,12 +73,39 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ImranHasan13421&show_icons=true&theme=dracula&hide_border=true" height="150"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ImranHasan13421&layout=compact&theme=dracula&hide_border=true" height="150"/>
+<!-- =======================
+     GITHUB STATS (MULTI THEME)
+======================= -->
+
+<!-- Row 1 -->
+<img src="https://github-readme-stats.vercel.app/api?username=ImranHasan13421&show_icons=true&theme=tokyonight&hide_border=true&v=1" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ImranHasan13421&layout=compact&theme=tokyonight&hide_border=true&v=1" height="150"/>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=ImranHasan13421&theme=dracula&hide_border=true" height="150"/>
+<!-- Row 2 -->
+<img src="https://github-readme-stats.vercel.app/api?username=ImranHasan13421&show_icons=true&theme=radical&hide_border=true&v=2" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ImranHasan13421&layout=compact&theme=radical&hide_border=true&v=2" height="150"/>
+
+<br/>
+
+<!-- Row 3 -->
+<img src="https://github-readme-stats.vercel.app/api?username=ImranHasan13421&show_icons=true&theme=gruvbox&hide_border=true&v=3" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ImranHasan13421&layout=compact&theme=gruvbox&hide_border=true&v=3" height="150"/>
+
+<br/>
+
+<!-- Row 4 -->
+<img src="https://github-readme-stats.vercel.app/api?username=ImranHasan13421&show_icons=true&theme=synthwave&hide_border=true&v=4" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ImranHasan13421&layout=compact&theme=synthwave&hide_border=true&v=4" height="150"/>
+
+<br/>
+
+<!-- STREAK (different themes too) -->
+<img src="https://streak-stats.demolab.com?user=ImranHasan13421&theme=tokyonight&hide_border=true&v=5" height="150"/>
+<img src="https://streak-stats.demolab.com?user=ImranHasan13421&theme=radical&hide_border=true&v=6" height="150"/>
+<img src="https://streak-stats.demolab.com?user=ImranHasan13421&theme=synthwave&hide_border=true&v=7" height="150"/>
+
 
 </div>
 
