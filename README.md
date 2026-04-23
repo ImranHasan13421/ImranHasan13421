@@ -98,7 +98,7 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="45"/>
 </a>
 
-<a href="https://t.me/@imran13421">
+<a href="https://t.me/imran13421">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="45"/>
 </a>
 
