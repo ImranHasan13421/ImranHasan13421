@@ -4,7 +4,7 @@
 
 <div align="center">
   <h2>Hi 👋, I'm Imran Hasan</h2>
-  <p><b> New Flutter & Dart Learner • UI/UX Enthusiast • Vibe Coder</b></p>
+  <p><b> Flutter & Dart New Learner • UI/UX Enthusiast • Vibe Coder</b></p>
 </div>
 
 ## 💡 About Me
