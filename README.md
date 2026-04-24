@@ -39,7 +39,6 @@
   <img src="EzzeWatchList.png" width="80" style="margin: 10px;" />
 </a>
 
-
 <a href="https://github.com/ImranHasan13421/EzzeScoreCard/releases/download/V1.0.1/EzzeScores.apk" target="_blank">
   <img src="EzzeScore.png" width="80" style="margin: 10px;" />
 </a>
