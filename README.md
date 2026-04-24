@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <h2>Hi 👋, I'm Imran Hasan</h2>
+  <h1>Hi 👋, I'm Imran Hasan</h1>
   <p><b> Flutter & Dart New Learner • UI/UX Enthusiast • Vibe Coder</b></p>
 </div>
 
