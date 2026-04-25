@@ -20,15 +20,15 @@
 <div align="center">
 
 <a href="https://drive.google.com/file/d/1NyCaQkedtT0K8KiEoQ11Fx4vqBwW4VWZ/view?usp=drive_link" target="_blank">
-  <img src="EzzeWash_Logo.png" width="80" style="margin: 10px;" />
+  <img src="EzzeWash_Logo.webp" width="80" style="margin: 10px;" />
 </a>
 
 <a href="https://github.com/ImranHasan13421/EzzeMusic/releases/download/V1.0.3/EzzeMusic.apk" target="_blank">
-  <img src="EzzeMusic.png" width="80" style="margin: 10px;" />
+  <img src="EzzeMusic.webp" width="80" style="margin: 10px;" />
 </a>
 
 <a href="https://github.com/ImranHasan13421/EzzeToDo/releases/download/V1.0.3/EzzeToDO.apk" target="_blank">
-  <img src="EzzeToDo.png" width="80" style="margin: 10px;" />
+  <img src="EzzeToDo.webp" width="80" style="margin: 10px;" />
 </a>
 
 <a href="https://github.com/ImranHasan13421/EzzeCVmaker/releases/download/V1.0.3/EzzeCV.apk" target="_blank">
@@ -36,15 +36,15 @@
 </a>
 
 <a href="https://github.com/ImranHasan13421/EzzeWatchList/releases/download/V1.0.3/EzzeWatchList.apk" target="_blank">
-  <img src="EzzeWatchList.png" width="80" style="margin: 10px;" />
+  <img src="EzzeWatchList.webp" width="80" style="margin: 10px;" />
 </a>
 
 <a href="https://github.com/ImranHasan13421/EzzeScoreCard/releases/download/V1.0.1/EzzeScores.apk" target="_blank">
-  <img src="EzzeScore.png" width="80" style="margin: 10px;" />
+  <img src="EzzeScore.webp" width="80" style="margin: 10px;" />
 </a>
 
 <a href="https://github.com/ImranHasan13421/EzzeStores/releases/download/V1.0.1/EzzeStores.apk" target="_blank">
-  <img src="EzzeStores.png" width="80" style="margin: 10px;" />
+  <img src="EzzeStores.webp" width="80" style="margin: 10px;" />
 </a>
 </div>
 
