@@ -32,7 +32,7 @@
 </a>
 
 <a href="https://github.com/ImranHasan13421/EzzeCVmaker/releases/download/V1.0.3/EzzeCV.apk" target="_blank">
-  <img src="EzzeCV.png" width="80" style="margin: 10px;" />
+  <img src="EzzeCV.webp" width="80" style="margin: 10px;" />
 </a>
 
 <a href="https://github.com/ImranHasan13421/EzzeWatchList/releases/download/V1.0.3/EzzeWatchList.apk" target="_blank">
