@@ -42,6 +42,10 @@
 <a href="https://github.com/ImranHasan13421/EzzeScoreCard/releases/download/V1.0.1/EzzeScores.apk" target="_blank">
   <img src="EzzeScore.png" width="80" style="margin: 10px;" />
 </a>
+
+<a href="https://github.com/ImranHasan13421/EzzeStores/releases/download/V1.0.1/EzzeStores.apk" target="_blank">
+  <img src="EzzeStores.png" width="80" style="margin: 10px;" />
+</a>
 </div>
 
 <p align="center">Click any app to download and test</p>
