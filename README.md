@@ -23,7 +23,7 @@
   <img src="EzzeWash_Logo.webp" width="50" style="margin: 10px;" />
 </a>
 
-<a href="https://github.com/ImranHasan13421/EzzeWash_Laundry_Management-Admin-V1.0.2/releases/download/V1.0.5/EzeeWash.Admin.exe" target="_blank">
+<a href="https://github.com/ImranHasan13421/EzzeWash_Laundry_Management-Admin-V1.0.2/releases/download/V1.0.6/EzeeWash.Admin.exe" target="_blank">
   <img src="EzzeAdmin.webp" width="50" style="margin: 10px;" />
 </a>
 
