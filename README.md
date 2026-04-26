@@ -31,12 +31,18 @@
   <img src="EzzeRider.webp" width="50" style="margin: 10px;" />
 </a>
 
+<p align="center">Final Year Project</p>
+
 <a href="https://github.com/ImranHasan13421/EzzeMusic/releases/download/V1.0.3/EzzeMusic.apk" target="_blank">
   <img src="EzzeMusic.webp" width="50" style="margin: 10px;" />
 </a>
 
 <a href="https://github.com/ImranHasan13421/EzzeToDo/releases/download/V1.0.3/EzzeToDO.apk" target="_blank">
   <img src="EzzeToDo.webp" width="50" style="margin: 10px;" />
+</a>
+
+<a href="https://github.com/ImranHasan13421/EzzeExpense/releases/download/V1.0.0/EzzeExpense.apk" target="_blank">
+  <img src="EzzeExpense.webp" width="50" style="margin: 10px;" />
 </a>
 
 <a href="https://github.com/ImranHasan13421/EzzeCVmaker/releases/download/V1.0.3/EzzeCV.apk" target="_blank">
@@ -56,7 +62,8 @@
 </a>
 </div>
 
-<p align="center">Click any app to download and test</p>
+<p align="center">Personal Projects</p>
+<p align="center"> <b>Click any app icon to download and test</b> </p>
 
 ## 🛠️ Tech Stack
 
