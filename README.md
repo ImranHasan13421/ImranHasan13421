@@ -23,6 +23,10 @@
   <img src="EzzeWash_Logo.webp" width="80" style="margin: 10px;" />
 </a>
 
+<a href="https://github.com/ImranHasan13421/EzeeWash_Laundry_Management-Rider-V1.0.0/releases/download/V1.0.4/Ezze.Riders.apk" target="_blank">
+  <img src="EzzeRider.webp" width="80" style="margin: 10px;" />
+</a>
+
 <a href="https://github.com/ImranHasan13421/EzzeMusic/releases/download/V1.0.3/EzzeMusic.apk" target="_blank">
   <img src="EzzeMusic.webp" width="80" style="margin: 10px;" />
 </a>
