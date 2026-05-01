@@ -94,15 +94,6 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  
-<!-- Main Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=ImranHasan13421&show_icons=true&theme=tokyonight&hide_border=true&v=1" height="150"/>
-
-<!-- Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ImranHasan13421&layout=compact&theme=radical&hide_border=true&v=2" height="150"/>
-
-<br/>
-
 <!-- Streak -->
 <img src="https://streak-stats.demolab.com?user=ImranHasan13421&theme=synthwave&hide_border=true&v=3" height="150"/>
 </div>
