@@ -91,13 +91,6 @@
 
 </div>
 
-## 📊 GitHub Stats
-
-<div align="center">
-<!-- Streak -->
-<img src="https://streak-stats.demolab.com?user=ImranHasan13421&theme=synthwave&hide_border=true&v=3" height="150"/>
-</div>
-
 ## 🌐 Connect
 
 <div align="center">
