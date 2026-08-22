@@ -19,7 +19,7 @@
 
 <div align="center">
 
-<a href="https://drive.google.com/file/d/1NyCaQkedtT0K8KiEoQ11Fx4vqBwW4VWZ/view?usp=drive_link" target="_blank">
+<a href="https://github.com/Abdulaowalasif/ezze-wash-apk-release/releases/download/v1.4.6/app-release.apk" target="_blank">
   <img src="EzzeWash_Logo.webp" width="50" style="margin: 10px;" />
 </a>
 
