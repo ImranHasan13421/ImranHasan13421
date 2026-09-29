@@ -3,20 +3,51 @@
 </div>
 
 <div align="center">
-  <h1>Hi 👋, I'm Imran Hasan</h1>
-  <p><b> Flutter & Dart New Learner • UI/UX Enthusiast • Vibe Coder</b></p>
+  <h1><b>MD. Imran Hasan</b></h1>
+  <p><b>Software Developer • UI/UX Enthusiast • Project Manager</b></p>
+  <p> <i>Building practical software with a focus on clean interfaces, useful features, and better user experiences.</i> </p>
 </div>
+
+<div align="center">
+<a href="https://www.facebook.com/imran.hasan.310303/">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" height="150"/>
+</a>
+<a href="mailto:imranhasan13421@gmail.com?subject=Hello&body=I%20want%20to%20contact%20you">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" height="150"/>
+</a>
+<a href="https://www.linkedin.com/in/md-imran-hasan-441a70373/">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" height="150"/>
+</a>
+<a href="https://t.me/imran13421">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" height="150"/>
+</a>
+<a href="https://wa.me/+8801401439995">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" height="150"/>
+</a>
+  <p> <i>Connect with me</i> </p>
+</div>
+
+
 
 ## 💡 About Me
 
-- 🎓 Final Year BSc in CSE Student
-- 🚀 Studying at Shyamoli Engineering College
-- 📱 Building apps with **Flutter & Dart**  
-- 🎨 Focused on **UI/UX & smooth experience**    
-- 📚 Continuously learning and improving  
+Hi 👋, I'm <b>Imran Hasan</b>, a Computer Science & Engineering graduate from Shyamoli Engineering College, with a strong interest in mobile application development, UI/UX design, and practical software engineering.
+<p>I enjoy turning ideas into functional applications and experimenting with different technologies to understand how real-world software is designed and built. I have expertise in managing software development projects and making user friendly near perfect softwares.</p>
+
+- 📱 Focused on Flutter & Dart
+- 🎨 Interested in UI/UX Design & Product Experience
+- 💻 Building practical mobile and desktop applications
+- 🚀 Developing projects under the Ezze ecosystem
+- 📖 Continuously learning and improving my development skills
+
+
+## 🎓 Education
+- 🎓 Bachelor of Science in Computer Science & Engineering
+- 🏫 Shyamoli Engineering College (University of Dhaka Affiliated College)
+- 📚 Session: 2020–2021
+- 💡Focused Areas: Software Development, Programming, Databases, Networking, Web & Mobile Technologies 
 
 ## 🚀 My Projects
-
 <div align="center">
 
 <a href="https://github.com/Abdulaowalasif/ezze-wash-apk-release/releases/download/v1.4.7/app-release.apk" target="_blank">
@@ -31,7 +62,9 @@
   <img src="EzzeRider.webp" width="50" style="margin: 10px;" />
 </a>
 
-<p align="center">Final Year Project</p>
+<p align="center"><i><b>My BSc. Final Year Projects</b></i></p>
+<p> </p>
+
 
 <a href="https://github.com/ImranHasan13421/EzzeMusic/releases/download/V1.0.3/EzzeMusic.apk" target="_blank">
   <img src="EzzeMusic.webp" width="50" style="margin: 10px;" />
@@ -62,13 +95,12 @@
 </a>
 </div>
 
-<p align="center">Personal Projects</p>
-<p align="center"> <b>Click any app icon to download and test</b> </p>
+<p align="center"><b><i>My Personal Projects</b></i></p>
+<p align="center"> <b><i>Click any app icon to download and test</i></b> </p>
+
 
 ## 🛠️ Tech Stack
-
 <div align="center">
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40"/>
@@ -88,33 +120,14 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40"/>
-
 </div>
 
-## 🌐 Connect
 
+## 📊 GitHub Statistic
+</div>
+<br>
 <div align="center">
-
-<a href="https://www.facebook.com/imran.hasan.310303/">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" height="150"/>
-</a>
-
-<a href="mailto:imranhasan13421@gmail.com?subject=Hello&body=I%20want%20to%20contact%20you">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" height="150"/>
-</a>
-
-<a href="https://www.linkedin.com/in/md-imran-hasan-441a70373/">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" height="150"/>
-</a>
-
-<a href="https://t.me/imran13421">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" height="150"/>
-</a>
-
-<a href="https://wa.me/+8801401439995">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" height="150"/>
-</a>
-
+<img src="https://streak-stats.demolab.com?user=ImranHasan13421&theme=tokyonight&hide_border=true"/>
 </div>
 
 <div align="center">
