@@ -3,9 +3,11 @@
 </div>
 
 <div align="center">
-  <h1><b>MD. Imran Hasan</b></h1>
-  <p><b>Software Developer • UI/UX Enthusiast • Project Manager</b></p>
-  <p> <i>Building practical software with a focus on clean interfaces, useful features, and better user experiences.</i> </p>
+<img src="https://github.com/ImranHasan13421/ImranHasan13421/blob/main/Banner.webp">
+</div>
+
+<div align="center">
+  <p> <h3><b><i>Building practical software with a focus on clean interfaces, useful features, and better user experiences.</i></b></h3> </p>
 </div>
 
 <div align="center">
@@ -24,7 +26,7 @@
 <a href="https://wa.me/+8801401439995">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" height="150"/>
 </a>
-  <p> <i>Connect with me</i> </p>
+  <h3><i>Connect with me</i></h3>
 </div>
 
 
@@ -50,7 +52,9 @@ Hi 👋, I'm <b>Imran Hasan</b>, a Computer Science & Engineering graduate from 
 ## 🚀 My Projects
 <div align="center">
 
-<a href="https://github.com/Abdulaowalasif/ezze-wash-apk-release/releases/download/v1.4.7/app-release.apk" target="_blank">
+  <h2><b><i>Click any app icon to download and test</i></b></h2>
+
+  <a href="https://github.com/Abdulaowalasif/ezze-wash-apk-release/releases/download/v1.4.7/app-release.apk" target="_blank">
   <img src="EzzeWash_Logo.webp" width="50" style="margin: 10px;" />
 </a>
 
@@ -95,8 +99,8 @@ Hi 👋, I'm <b>Imran Hasan</b>, a Computer Science & Engineering graduate from 
 </a>
 </div>
 
-<p align="center"><b><i>My Personal Projects</b></i></p>
-<p align="center"> <b><i>Click any app icon to download and test</i></b> </p>
+<p align="center"><b><i>More Personal Projects</b></i></p>
+
 
 
 ## 🛠️ Tech Stack
