@@ -19,15 +19,15 @@
 
 <div align="center">
 
-<a href="https://github.com/Abdulaowalasif/ezze-wash-apk-release/releases/download/v1.4.6/app-release.apk" target="_blank">
+<a href="https://github.com/Abdulaowalasif/ezze-wash-apk-release/releases/download/v1.4.7/app-release.apk" target="_blank">
   <img src="EzzeWash_Logo.webp" width="50" style="margin: 10px;" />
 </a>
 
-<a href="https://github.com/ImranHasan13421/EzzeWash_Laundry_Management-Admin-V1.0.2/releases/download/V1.0.7/EzeeWash.Admin.Software.Official.Installer.exe" target="_blank">
+<a href="https://github.com/ImranHasan13421/EzzeWash_Laundry_Management-Admin-V1.0.2/releases/download/V1.0.8/EzeeWash.Admin.Software.Official.Installer.exe" target="_blank">
   <img src="EzzeAdmin.webp" width="50" style="margin: 10px;" />
 </a>
 
-<a href="https://github.com/ImranHasan13421/EzeeWash_Laundry_Management-Rider-V1.0.0/releases/download/V1.0.4/Ezze.Riders.apk" target="_blank">
+<a href="https://github.com/ImranHasan13421/EzeeWash_Laundry_Management-Rider-V1.0.0/releases/download/V1.0.6/EzzeWash.Riders.apk" target="_blank">
   <img src="EzzeRider.webp" width="50" style="margin: 10px;" />
 </a>
 
@@ -57,8 +57,8 @@
   <img src="EzzeScore.webp" width="50" style="margin: 10px;" />
 </a>
 
-<a href="https://github.com/ImranHasan13421/EzzeStores/releases/download/V1.0.1/EzzeStores.apk" target="_blank">
-  <img src="EzzeStores.webp" width="50" style="margin: 10px;" />
+<a href="https://github.com/ImranHasan13421/ATLANTA/releases/download/v1.2.0/ATLANTA.AI.apk" target="_blank">
+  <img src="ATLANTA.webp" width="50" style="margin: 10px;" />
 </a>
 </div>
 
