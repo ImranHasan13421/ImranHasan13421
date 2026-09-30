@@ -82,7 +82,7 @@ Hi 👋, I'm <b>Imran Hasan</b>, a Computer Science & Engineering graduate from 
   <img src="EzzeExpense.webp" width="50" style="margin: 10px;" />
 </a>
 
-<a href="https://github.com/ImranHasan13421/EzzeCVmaker/releases/download/V1.0.3/EzzeCV.apk" target="_blank">
+<a href="https://github.com/ImranHasan13421/EzzeCVmaker/releases/download/V1.0.5/EzzeCV.apk" target="_blank">
   <img src="EzzeCV.webp" width="50" style="margin: 10px;" />
 </a>
 
