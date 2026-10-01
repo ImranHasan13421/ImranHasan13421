@@ -66,7 +66,7 @@ Hi 👋, I'm <b>Imran Hasan</b>, a Computer Science & Engineering graduate from 
   <img src="EzzeRider.webp" width="50" style="margin: 10px;" />
 </a>
 
-<p align="center"><i><b>My BSc. Final Year Projects</b></i></p>
+<p align="center"><i><b>My BSc. Final Year Project</b></i></p>
 <p> </p>
 
 
@@ -124,14 +124,7 @@ Hi 👋, I'm <b>Imran Hasan</b>, a Computer Science & Engineering graduate from 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40"/>
-</div>
-
-
-## 📊 GitHub Statistic
-</div>
-<br>
-<div align="center">
-<img src="https://streak-stats.demolab.com?user=ImranHasan13421&theme=tokyonight&hide_border=true"/>
+<img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/supabase/supabase-original.svg" height="40"/>  
 </div>
 
 <div align="center">
