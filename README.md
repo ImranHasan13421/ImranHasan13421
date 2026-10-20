@@ -74,6 +74,10 @@ Hi 👋, I'm <b>Imran Hasan</b>, a Computer Science & Engineering graduate from 
   <img src="Ezze_Control.webp" width="50" style="margin: 10px;" />
 </a>
 
+<a href="https://github.com/ImranHasan13421/EzzeBreak/releases/download/V1.0.2/Ezze.Break.apk" target="_blank">
+  <img src="EzzeBreak.webp" width="50" style="margin: 10px;" />
+</a>
+
 <a href="https://github.com/ImranHasan13421/EzzeBackup/releases/download/V1.0.2/Ezze.Backup.apk" target="_blank">
   <img src="EzzeBackUp.webp" width="50" style="margin: 10px;" />
 </a>
