@@ -33,12 +33,13 @@
 
 ## 💡 About Me
 
-Hi 👋, I'm <b>Imran Hasan</b>, a Computer Science & Engineering graduate from Shyamoli Engineering College, with a strong interest in mobile application development, UI/UX design, and practical software engineering.
-<p>I enjoy turning ideas into functional applications and experimenting with different technologies to understand how real-world software is designed and built. I have expertise in managing software development projects and making user friendly near perfect softwares.</p>
+Hi 👋, I'm <b>Imran Hasan</b>, a Computer Science & Engineering graduate from Shyamoli Engineering College, with a strong interest in software and website development specially mobile and desktop software, UI/UX design, and practical software engineering.
+<p>I enjoy turning ideas into functional applications giving solutions to different problems and experimenting with different technologies to understand how real-world software is designed and built. I have expertise in managing software development projects and making user friendly near perfect softwares.</p>
 
 - 📱 Focused on Flutter & Dart
 - 🎨 Interested in UI/UX Design & Product Experience
-- 💻 Building practical mobile and desktop applications
+- 💻 Building practical mobile and desktop softwares
+- 🤖 Using AI Integrated IDE and ecosystem with precision and proper planning
 - 🚀 Developing projects under the Ezze ecosystem
 - 📖 Continuously learning and improving my development skills
 
