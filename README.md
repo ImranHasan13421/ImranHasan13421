@@ -52,7 +52,7 @@ Hi 👋, I'm <b>Imran Hasan</b>, a Computer Science & Engineering graduate from 
 ## 🚀 My Projects
 <div align="center">
 
-  <h2><b><i>Click any app icon to download and test</i></b></h2>
+  <h2><b><i>Click any app icon to download and use</i></b></h2>
 
   <a href="https://github.com/Abdulaowalasif/ezze-wash-apk-release/releases/download/v1.4.7/app-release.apk" target="_blank">
   <img src="EzzeWash_Logo.webp" width="50" style="margin: 10px;" />
