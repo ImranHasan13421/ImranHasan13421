@@ -69,6 +69,13 @@ Hi 👋, I'm <b>Imran Hasan</b>, a Computer Science & Engineering graduate from 
 <p align="center"><i><b>My BSc. Final Year Project</b></i></p>
 <p> </p>
 
+<a href="https://github.com/ImranHasan13421/EzzeControl/releases/download/V1.0.2/Ezze.Control.apk" target="_blank">
+  <img src="Ezze_Control.webp" width="50" style="margin: 10px;" />
+</a>
+
+<a href="https://github.com/ImranHasan13421/EzzeBackup/releases/download/V1.0.2/Ezze.Backup.apk" target="_blank">
+  <img src="EzzeBackUp.webp" width="50" style="margin: 10px;" />
+</a>
 
 <a href="https://github.com/ImranHasan13421/EzzeMusic/releases/download/V1.0.3/EzzeMusic.apk" target="_blank">
   <img src="EzzeMusic.webp" width="50" style="margin: 10px;" />
@@ -82,16 +89,20 @@ Hi 👋, I'm <b>Imran Hasan</b>, a Computer Science & Engineering graduate from 
   <img src="EzzeExpense.webp" width="50" style="margin: 10px;" />
 </a>
 
+<a href="https://ezze-localhostbd.vercel.app/" target="_blank">
+  <img src="EzzeLocalHostBD.webp" width="50" style="margin: 10px;" />
+</a>
+
 <a href="https://github.com/ImranHasan13421/EzzeCVmaker/releases/download/V1.0.5/EzzeCV.apk" target="_blank">
   <img src="EzzeCV.webp" width="50" style="margin: 10px;" />
 </a>
 
-<a href="https://github.com/ImranHasan13421/EzzeWatchList/releases/download/V1.0.3/EzzeWatchList.apk" target="_blank">
-  <img src="EzzeWatchList.webp" width="50" style="margin: 10px;" />
-</a>
-
 <a href="https://github.com/ImranHasan13421/EzzeScoreCard/releases/download/V1.0.1/EzzeScores.apk" target="_blank">
   <img src="EzzeScore.webp" width="50" style="margin: 10px;" />
+</a>
+
+<a href="https://github.com/ImranHasan13421/EzzeWatchList/releases/download/V1.0.3/EzzeWatchList.apk" target="_blank">
+  <img src="EzzeWatchList.webp" width="50" style="margin: 10px;" />
 </a>
 
 <a href="https://github.com/ImranHasan13421/ATLANTA/releases/download/v1.2.0/ATLANTA.AI.apk" target="_blank">
